@@ -1,0 +1,7 @@
+# Vagrant specific
+.vagrant
+*.log
+*.box
+
+# User directory
+workspace
